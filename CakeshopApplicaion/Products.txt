@@ -1,0 +1,6 @@
+The Product List
+Redvelvet,20,500.0
+Blackcurrent,15,400.0
+Blackforest,20,350.0
+Whiteforest,18,450.0
+Buttersctoch,25,450.0
